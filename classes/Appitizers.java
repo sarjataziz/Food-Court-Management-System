@@ -35,5 +35,4 @@ public class Appitizers extends FoodItem
 		System.out.println("Food Item's Size               : " +size + ". ");
 		System.out.println("________________________________________________________________________");
 	}
-
 }
